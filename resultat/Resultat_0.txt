@@ -1,0 +1,3 @@
+Message chiffré : 78543d7d0e714a02
+Clé : vbcM7rrisc1s5kaO
+IV : lY0ZVvJKhnCI97IM
